@@ -76,7 +76,7 @@ class HomeViewState extends State<HomeView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Text Enhancer with Gemini"),
+        title: const Text("Text Craft with Gemini"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
